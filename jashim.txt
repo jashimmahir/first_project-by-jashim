@@ -1,0 +1,1 @@
+ max is=40 min is=5 sum is=98
